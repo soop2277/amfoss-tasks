@@ -1,3 +1,3 @@
 
-**Ubuntu installation**
+**Ubuntu installation**  
 Ubuntu installation complete.

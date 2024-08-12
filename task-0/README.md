@@ -1,1 +1,2 @@
-###Ubuntu installation complete
+###Ubuntu installation
+Ubuntu installation complete.

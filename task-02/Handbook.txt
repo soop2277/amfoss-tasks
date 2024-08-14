@@ -1,6 +1,8 @@
 parchment code: aHR0cHM6Ly9naXRo  
 statue of marika code: ABCD123JKDMDM90SDN  
 
-spell --> MoonbloomMistveil = LnnmknnlLhrsdhk 
+holy spell --> MoonbloomMistveil : LnnmknnlLhrsdhk 
 
+light book code: dWIuY29tL2FtYW5ze
+Celestial Veil Amulet code: CSigVmaroAn
 

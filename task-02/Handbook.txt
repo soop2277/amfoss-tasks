@@ -5,4 +5,7 @@ holy spell --> MoonbloomMistveil : LnnmknnlLhrsdhk
 
 light book code: dWIuY29tL2FtYW5ze
 Celestial Veil Amulet code: CSigVmaroAn
-dark book code: GNhbGlidXIvVGVyb
+dark book I code: GNhbGlidXIvVGVyb
+dark book II code: WluYWwtQ2hhb3MtR29kU3VpdGU=
+GodSuite repository: https://github.com/amansxcalibur/Terminal-Chaos-GodSuite
+
